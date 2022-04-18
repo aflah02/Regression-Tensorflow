@@ -1,1 +1,1 @@
-# RegressionBoilerplateNotebookTensorflow
+# Regression Boilerplate Notebook for Tensorflow
